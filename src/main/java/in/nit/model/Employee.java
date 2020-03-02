@@ -4,4 +4,5 @@ public class Employee {
 	private Integer id;
 	private String name;
 	private String dept;
+	private String esal;
 }
